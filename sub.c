@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include<math.h>
 #include<assert.h>
-#include "vinee.c"
+#include "function.c"
 
 int main()
 {
