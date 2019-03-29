@@ -6,5 +6,5 @@ matrix:
         - clang
         - gcc
       script:  
-        - gcc -o main assert main assert.c 
-        - ./main assert
+        - gcc -o sub sub.c 
+        - ./sub
