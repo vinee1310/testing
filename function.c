@@ -1,10 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include<math.h>
-
 int functionality(char mode, int num1, int num2)
 {
-
     if (mode=='+')
     {
     return num1+num2;
@@ -14,7 +12,6 @@ int functionality(char mode, int num1, int num2)
     {
     return num1-num2;
     }
-
     else if (mode=='*')
     {
      return num1*num2;
